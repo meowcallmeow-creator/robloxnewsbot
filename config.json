@@ -1,0 +1,9 @@
+{
+  "webhook_url": "https://discord.com/api/webhooks/1560330607316303942/Iwj9HUzfgXisdSIL0ZTPV9TIxvzF6R4iuxtRCKAtyAUmpCr3taoPRZdXJBj9TC4mu8TY",
+  "accounts": ["MrNotifier", "Blox_Feed", "4Lulzy"],
+  "translate": true,
+  "target_lang": "ko",
+  "link_domain": "fxtwitter.com",
+  "skip_replies": true,
+  "skip_retweets": true
+}
